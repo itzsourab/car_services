@@ -1,0 +1,24 @@
+body{
+    overflow-x: hidden;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: navy;
+    font-weight: 400;
+}
+
+.india{
+    height:400px;
+    width:100%;
+}
+
+
+.russia{
+    height: 500px;
+    
+}
+
+ .russia.img{
+    height: 100% !important;
+    width:  100% !important;
+    /* border: 1px solid red; */
+}
